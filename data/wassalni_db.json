@@ -1,0 +1,2426 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "email": "admin@wassalni.sy",
+      "phone": "+963944111222",
+      "full_name": "مدير منصة وصّلني",
+      "role": "admin",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-rest-1",
+      "email": "shami@wassalni.sy",
+      "phone": "+963933222333",
+      "full_name": "شاورما الشام - كفرسوسة",
+      "role": "restaurant",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-rest-2",
+      "email": "abo_ali@wassalni.sy",
+      "phone": "+963955333444",
+      "full_name": "مشاوي أبو علي الدمشقي",
+      "role": "restaurant",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-rest-3",
+      "email": "damas_burger@wassalni.sy",
+      "phone": "+963966444555",
+      "full_name": "داماس برغر أند كريسبي",
+      "role": "restaurant",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-rest-4",
+      "email": "sweets@wassalni.sy",
+      "phone": "+963977555666",
+      "full_name": "حلويات النبلاء الشامية",
+      "role": "restaurant",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-driver-1",
+      "email": "ahmad.driver@wassalni.sy",
+      "phone": "+963988666777",
+      "full_name": "أحمد السعيد (كابتن دمشق)",
+      "role": "driver",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-driver-2",
+      "email": "tarek.driver@wassalni.sy",
+      "phone": "+963999777888",
+      "full_name": "طارق المصري (كابتن المزة)",
+      "role": "driver",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-cust-1",
+      "email": "samer.customer@gmail.com",
+      "phone": "+963933999000",
+      "full_name": "سامر الخالدي",
+      "role": "customer",
+      "status": "active",
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "updated_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "usr-test-1788128142485",
+      "full_name": "عميل اختبار تجريبي",
+      "phone": "+963999780175",
+      "email": "test_1788128142485@wassalni.sy",
+      "role": "customer",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "created_at": "2026-08-30T22:15:42.485Z"
+    },
+    {
+      "id": "usr-test-1788128165785",
+      "full_name": "عميل اختبار تجريبي",
+      "phone": "+963999455053",
+      "email": "test_1788128165785@wassalni.sy",
+      "role": "customer",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "created_at": "2026-08-30T22:16:05.785Z"
+    },
+    {
+      "id": "usr-1788128827839",
+      "email": "ym929266@gmail.com",
+      "phone": "٥٣١٨٦٣٩٣٠",
+      "full_name": "يحيى محمد ",
+      "role": "restaurant",
+      "status": "active",
+      "created_at": "2026-08-30T22:27:07.974Z",
+      "updated_at": "2026-08-30T22:27:07.974Z"
+    },
+    {
+      "id": "usr-test-1788128868801",
+      "full_name": "عميل اختبار تجريبي",
+      "phone": "+963999744946",
+      "email": "test_1788128868801@wassalni.sy",
+      "role": "customer",
+      "status": "active",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "created_at": "2026-08-30T22:27:48.801Z",
+      "updated_at": "2026-08-30T22:27:48.801Z"
+    }
+  ],
+  "user_passwords": {
+    "usr-admin-1": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-rest-1": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-rest-2": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-rest-3": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-rest-4": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-driver-1": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-driver-2": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-cust-1": "$2b$10$NRm0JFs80EC1sRtpSztIJOI/EUpaaEtAW825TiRuXC9PrQClkDIUa",
+    "usr-test-1788128142485": "$2b$10$nzGYfGcnXUDrEKw.YHifh.Or93z5jNNvarEF3j4mjy5XqQOTY473C",
+    "usr-test-1788128165785": "$2b$10$rD./tisk2TRVctx4W8b0AeVuICdmFPjEqN5PEELV7UKUt.kg9XB7C",
+    "usr-1788128827839": "$2b$10$f3q.VGi02O4p9cQ3JUDZ7eG5/dAaeKkiIbALB3rFgoY5pmOsn0av2",
+    "usr-test-1788128868801": "$2b$10$2sFdR3VoENJFeoj.Vi4he.QTpNdZsMpdeULmJ9SD8y4rqRpp0Hrzu"
+  },
+  "restaurant_categories": [
+    {
+      "id": "cat-shawarma",
+      "name_ar": "شاورما وسندويش",
+      "icon_slug": "flame",
+      "image_url": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": "cat-grills",
+      "name_ar": "مشاوي ومأكولات شرقية",
+      "icon_slug": "utensils",
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "id": "cat-burger",
+      "name_ar": "برغر وكريسبي",
+      "icon_slug": "sandwich",
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "id": "cat-pizza",
+      "name_ar": "بيتزا وفطائر",
+      "icon_slug": "pizza",
+      "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 4,
+      "is_active": true
+    },
+    {
+      "id": "cat-sweets",
+      "name_ar": "حلويات دمشقية وبوظة",
+      "icon_slug": "cake",
+      "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 5,
+      "is_active": true
+    },
+    {
+      "id": "cat-breakfast",
+      "name_ar": "فطور وفتات وفول",
+      "icon_slug": "coffee",
+      "image_url": "https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 6,
+      "is_active": true
+    },
+    {
+      "id": "cat-drinks",
+      "name_ar": "عصائر وكوكتيلات",
+      "icon_slug": "cup-soda",
+      "image_url": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=500&auto=format&fit=crop&q=60",
+      "sort_order": 7,
+      "is_active": true
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "rest-1",
+      "owner_user_id": "usr-rest-1",
+      "name_ar": "شاورما الشام الأصيلة",
+      "name_en": "Authentic Sham Shawarma",
+      "description_ar": "أطيب شاورما دجاج ولحم على الفحم مع الثومية الأصلية والمخلل الشامي الفاخر",
+      "logo_url": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=200&auto=format&fit=crop&q=60",
+      "banner_url": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=1000&auto=format&fit=crop&q=80",
+      "phone": "+963933222333",
+      "category_id": "cat-shawarma",
+      "category_name": "شاورما وسندويش",
+      "city": "دمشق",
+      "district": "كفرسوسة",
+      "latitude": 33.4975,
+      "longitude": 36.275,
+      "address_text": "دمشق - كفرسوسة، مقابل الشام سيتي سنتر",
+      "opening_time": "11:00",
+      "closing_time": "02:00",
+      "is_open": true,
+      "is_busy": false,
+      "is_approved": true,
+      "is_active": true,
+      "min_order_amount": 30000,
+      "base_delivery_fee": 6000,
+      "prep_time_minutes": 20,
+      "rating": 4.9,
+      "rating_count": 342,
+      "commission_rate_percentage": 12,
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "status": "OPEN"
+    },
+    {
+      "id": "rest-2",
+      "owner_user_id": "usr-rest-2",
+      "name_ar": "مشاوي أبو علي الدمشقي",
+      "name_en": "Abo Ali Damascene Grills",
+      "description_ar": "كباب حلبي وشقف وشيش طاووق على أصوله بلحم بلدي طازج يومياً",
+      "logo_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=200&auto=format&fit=crop&q=60",
+      "banner_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1000&auto=format&fit=crop&q=80",
+      "phone": "+963955333444",
+      "category_id": "cat-grills",
+      "category_name": "مشاوي ومأكولات شرقية",
+      "city": "دمشق",
+      "district": "الميدان",
+      "latitude": 33.488,
+      "longitude": 36.292,
+      "address_text": "دمشق - الميدان، جزماتية بالقرب من جامع منجك",
+      "opening_time": "12:00",
+      "closing_time": "01:00",
+      "is_open": true,
+      "is_busy": false,
+      "is_approved": true,
+      "is_active": true,
+      "min_order_amount": 50000,
+      "base_delivery_fee": 7000,
+      "prep_time_minutes": 30,
+      "rating": 4.8,
+      "rating_count": 215,
+      "commission_rate_percentage": 14,
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "status": "OPEN"
+    },
+    {
+      "id": "rest-3",
+      "owner_user_id": "usr-rest-3",
+      "name_ar": "داماس برغر أند كريسبي",
+      "name_en": "Damas Burger & Crispy",
+      "description_ar": "برغر لحم أنجوس ووجبات كريسبي الدجاج المقرمشة مع خلطات صوص سرية",
+      "logo_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=200&auto=format&fit=crop&q=60",
+      "banner_url": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=1000&auto=format&fit=crop&q=80",
+      "phone": "+963966444555",
+      "category_id": "cat-burger",
+      "category_name": "برغر وكريسبي",
+      "city": "دمشق",
+      "district": "الشعلان",
+      "latitude": 33.518,
+      "longitude": 36.291,
+      "address_text": "دمشق - الشعلان، تقاطع حديقة السبكي",
+      "opening_time": "12:30",
+      "closing_time": "02:30",
+      "is_open": true,
+      "is_busy": false,
+      "is_approved": true,
+      "is_active": true,
+      "min_order_amount": 40000,
+      "base_delivery_fee": 5000,
+      "prep_time_minutes": 25,
+      "rating": 4.7,
+      "rating_count": 189,
+      "commission_rate_percentage": 12,
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "status": "OPEN"
+    },
+    {
+      "id": "rest-4",
+      "owner_user_id": "usr-rest-4",
+      "name_ar": "حلويات النبلاء الشامية",
+      "name_en": "Al-Nubalaa Damascene Sweets",
+      "description_ar": "بقلاوة بالفستق الحلبي، وربات بالقشطة البلدية، وكنافة نابلسية على الفحم",
+      "logo_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=200&auto=format&fit=crop&q=60",
+      "banner_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=1000&auto=format&fit=crop&q=80",
+      "phone": "+963977555666",
+      "category_id": "cat-sweets",
+      "category_name": "حلويات دمشقية وبوظة",
+      "city": "دمشق",
+      "district": "أبو رمانة",
+      "latitude": 33.522,
+      "longitude": 36.284,
+      "address_text": "دمشق - أبو رمانة، ساحة النجمة",
+      "opening_time": "09:00",
+      "closing_time": "23:30",
+      "is_open": true,
+      "is_busy": false,
+      "is_approved": true,
+      "is_active": true,
+      "min_order_amount": 35000,
+      "base_delivery_fee": 5000,
+      "prep_time_minutes": 15,
+      "rating": 4.95,
+      "rating_count": 450,
+      "commission_rate_percentage": 10,
+      "created_at": "2026-08-30T22:10:39.800Z",
+      "status": "OPEN"
+    },
+    {
+      "id": "rest-1788128827974",
+      "owner_user_id": "usr-1788128827839",
+      "name_ar": "فلافل ",
+      "name_en": "Restaurant",
+      "description_ar": "مطعم معتمد في منصة وصّلني",
+      "logo_url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=200&auto=format&fit=crop&q=60",
+      "banner_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1000&auto=format&fit=crop&q=80",
+      "phone": "٥٣١٨٦٣٩٣٠",
+      "category_id": "cat-shawarma",
+      "category_name": "مأكولات سورية",
+      "city": "دمشق",
+      "district": "وسط دمشق",
+      "latitude": 33.5138,
+      "longitude": 36.2765,
+      "address_text": "دمشق، سوريا",
+      "opening_time": "10:00",
+      "closing_time": "23:30",
+      "is_open": true,
+      "is_busy": false,
+      "is_approved": true,
+      "is_active": true,
+      "min_order_amount": 30000,
+      "base_delivery_fee": 5000,
+      "prep_time_minutes": 25,
+      "rating": 5,
+      "rating_count": 1,
+      "commission_rate_percentage": 12,
+      "created_at": "2026-08-30T22:27:07.974Z",
+      "status": "OPEN"
+    }
+  ],
+  "menu_categories": [
+    {
+      "id": "mcat-1-1",
+      "restaurant_id": "rest-1",
+      "name_ar": "وجبات الشاورما العربي",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": "mcat-1-2",
+      "restaurant_id": "rest-1",
+      "name_ar": "سندويش شاورما فردي",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "id": "mcat-1-3",
+      "restaurant_id": "rest-1",
+      "name_ar": "مقبلات ومشروبات",
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "id": "mcat-2-1",
+      "restaurant_id": "rest-2",
+      "name_ar": "مشاوي مشكلة بالكيلو",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": "mcat-2-2",
+      "restaurant_id": "rest-2",
+      "name_ar": "وجبات فردية",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "id": "mcat-2-3",
+      "restaurant_id": "rest-2",
+      "name_ar": "مقبلات شامية",
+      "sort_order": 3,
+      "is_active": true
+    },
+    {
+      "id": "mcat-3-1",
+      "restaurant_id": "rest-3",
+      "name_ar": "برغر اللحم المشوي",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": "mcat-3-2",
+      "restaurant_id": "rest-3",
+      "name_ar": "وجبات كريسبي وزنجر",
+      "sort_order": 2,
+      "is_active": true
+    },
+    {
+      "id": "mcat-4-1",
+      "restaurant_id": "rest-4",
+      "name_ar": "حلويات دمشقية بالسمن العربي",
+      "sort_order": 1,
+      "is_active": true
+    },
+    {
+      "id": "mcat-4-2",
+      "restaurant_id": "rest-4",
+      "name_ar": "كنافة وقشطة طازجة",
+      "sort_order": 2,
+      "is_active": true
+    }
+  ],
+  "menu_items": [
+    {
+      "id": "item-101",
+      "restaurant_id": "rest-1",
+      "category_id": "mcat-1-1",
+      "name_ar": "وجبة شاورما دجاج عربي دبل",
+      "description_ar": "سندويشتين شاورما دجاج بخبز الصاج مقطعة مع بطاطا مقلية، كريم ثوم، مخلل، وصوص حار",
+      "price": 48000,
+      "image_url": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 15,
+      "calories": 850,
+      "sort_order": 1,
+      "options": [
+        {
+          "id": "opt-1",
+          "group_name_ar": "إضافات الصوص",
+          "name_ar": "ثومية إضافية",
+          "price_modifier": 3000
+        },
+        {
+          "id": "opt-2",
+          "group_name_ar": "إضافات الصوص",
+          "name_ar": "دبس رمان حامض",
+          "price_modifier": 2500
+        },
+        {
+          "id": "opt-3",
+          "group_name_ar": "إضافات الجبن",
+          "name_ar": "جبنة قشقوان سائحة",
+          "price_modifier": 6000
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-102",
+      "restaurant_id": "rest-1",
+      "category_id": "mcat-1-1",
+      "name_ar": "وجبة شاورما لحم عربي إكسترا",
+      "description_ar": "شاورما لحم عجل بلدي متبل مع صوص الطحينة والبقدونس والبصل المشوي والبطاطا",
+      "price": 65000,
+      "image_url": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 20,
+      "calories": 920,
+      "sort_order": 2,
+      "options": [
+        {
+          "id": "opt-4",
+          "group_name_ar": "الخبز",
+          "name_ar": "خبز صاج سياحي",
+          "price_modifier": 0
+        },
+        {
+          "id": "opt-5",
+          "group_name_ar": "إضافات",
+          "name_ar": "طحينة زيادة",
+          "price_modifier": 3000
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-103",
+      "restaurant_id": "rest-1",
+      "category_id": "mcat-1-2",
+      "name_ar": "سندويش شاورما دجاج صاروخ",
+      "description_ar": "سندويش شاورما كبير بخبز الصاج مع الثوم والمخلل ودبس الرمان",
+      "price": 26000,
+      "image_url": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 10,
+      "calories": 550,
+      "sort_order": 3,
+      "options": [
+        {
+          "id": "opt-6",
+          "group_name_ar": "الجبنة",
+          "name_ar": "إضافة جبنة موزاريلا",
+          "price_modifier": 4500
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-201",
+      "restaurant_id": "rest-2",
+      "category_id": "mcat-2-1",
+      "name_ar": "كيلو مشاوي مشكلة فاخرة",
+      "description_ar": "كباب حلبي، شقف لحم بلدي، شيش طاووق مع الخضار المشوية، البيواز، رغيف محمرة، وسرفيس مقبلات",
+      "price": 195000,
+      "image_url": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 30,
+      "calories": 1800,
+      "sort_order": 1,
+      "options": [
+        {
+          "id": "opt-7",
+          "group_name_ar": "المقبلات",
+          "name_ar": "صحن حمص بيروتي",
+          "price_modifier": 8000
+        },
+        {
+          "id": "opt-8",
+          "group_name_ar": "المقبلات",
+          "name_ar": "صحن متبل باذنجان",
+          "price_modifier": 8000
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-202",
+      "restaurant_id": "rest-2",
+      "category_id": "mcat-2-2",
+      "name_ar": "وجبة كباب باذنجان دمشقي",
+      "description_ar": "أسياخ كباب لحم غنم مشوية مع قطع الباذنجان والصلصة الخاصة مع الأرز أو الخبز",
+      "price": 75000,
+      "image_url": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 25,
+      "calories": 900,
+      "sort_order": 2,
+      "options": [],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-301",
+      "restaurant_id": "rest-3",
+      "category_id": "mcat-3-1",
+      "name_ar": "داماس تشيز برغر سوبريم",
+      "description_ar": "شريحة لحم بقر بلدي 200غ مشوية مع جبنة تشيدر أمريكية، خس مقرمش، مخلل، وبطاطا مقلية",
+      "price": 52000,
+      "image_url": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 20,
+      "calories": 780,
+      "sort_order": 1,
+      "options": [
+        {
+          "id": "opt-9",
+          "group_name_ar": "حجم الوجبة",
+          "name_ar": "وجبة كومبو مع كولا وبطاطا",
+          "price_modifier": 12000
+        },
+        {
+          "id": "opt-10",
+          "group_name_ar": "لحم إضافي",
+          "name_ar": "شريحة لحم إضافية 150غ",
+          "price_modifier": 18000
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-401",
+      "restaurant_id": "rest-4",
+      "category_id": "mcat-4-1",
+      "name_ar": "علبة بقلاوة مشكلة بالفستق الحلبي 1 كغ",
+      "description_ar": "تشكيلة فاخرة من أصابع الفستق، كول وشكور، بورمة، مبرومة معمولة بالسمن الحيواني الشامي الممتاز",
+      "price": 180000,
+      "image_url": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 10,
+      "calories": 1400,
+      "sort_order": 1,
+      "options": [
+        {
+          "id": "opt-11",
+          "group_name_ar": "التغليف",
+          "name_ar": "تغليف هدايا ملكي",
+          "price_modifier": 5000
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    },
+    {
+      "id": "item-402",
+      "restaurant_id": "rest-4",
+      "category_id": "mcat-4-2",
+      "name_ar": "كنافة نابلسية خشنة على الفحم (صحن عائلي)",
+      "description_ar": "كنافة بالجبنة البلدية العكاوية المذوبة مع الفستق الحلبي والقطر العطري الساخن",
+      "price": 65000,
+      "image_url": "https://images.unsplash.com/photo-1587314168485-3236d6710814?w=500&auto=format&fit=crop&q=60",
+      "is_available": true,
+      "preparation_time_mins": 15,
+      "calories": 950,
+      "sort_order": 2,
+      "options": [],
+      "created_at": "2026-08-30T22:10:39.800Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord-demo-101",
+      "order_number": "WS-2026-1048",
+      "customer_id": "usr-cust-1",
+      "customer_name": "سامر الخالدي",
+      "customer_phone": "+963933999000",
+      "restaurant_id": "rest-1",
+      "restaurant_name": "شاورما الشام الأصيلة",
+      "restaurant_phone": "+963933222333",
+      "restaurant_latitude": 33.4975,
+      "restaurant_longitude": 36.275,
+      "driver_id": "drv-1",
+      "driver_name": "أحمد السعيد (كابتن دمشق)",
+      "driver_phone": "+963988666777",
+      "status": "on_the_way",
+      "subtotal": 48000,
+      "delivery_fee": 6000,
+      "service_fee": 2500,
+      "discount_amount": 0,
+      "total_amount": 56500,
+      "restaurant_net": 42240,
+      "platform_commission": 5760,
+      "driver_earning": 6000,
+      "payment_method": "CASH",
+      "payment_status": "pending",
+      "delivery_address": {
+        "city": "دمشق",
+        "district": "كفرسوسة",
+        "street_details": "شارع الزهور، جانب جامع الفردوس",
+        "building": "بناء الياسمين 4",
+        "floor": "الطابق الثالث",
+        "notes": "يرجى الاتصال عند الوصول أمام المدخل",
+        "phone": "+963933999000"
+      },
+      "delivery_latitude": 33.504,
+      "delivery_longitude": 36.282,
+      "driver_latitude": 33.501,
+      "driver_longitude": 36.2785,
+      "prep_time_estimate": 20,
+      "created_at": "2026-08-30T21:45:39.801Z",
+      "accepted_at": "2026-08-30T21:48:39.801Z",
+      "ready_at": "2026-08-30T22:02:39.801Z",
+      "picked_up_at": "2026-08-30T22:05:39.801Z",
+      "updated_at": "2026-08-30T22:10:39.801Z",
+      "items": [
+        {
+          "id": "oitem-1",
+          "order_id": "ord-demo-101",
+          "menu_item_id": "item-101",
+          "item_name": "وجبة شاورما دجاج عربي دبل",
+          "unit_price": 48000,
+          "quantity": 1,
+          "subtotal": 48000,
+          "selected_options": [
+            {
+              "group_name_ar": "إضافات الصوص",
+              "name_ar": "ثومية إضافية",
+              "price_modifier": 0
+            }
+          ]
+        }
+      ],
+      "status_history": [
+        {
+          "id": "sh-1",
+          "order_id": "ord-demo-101",
+          "new_status": "pending",
+          "changed_by_user_id": "usr-cust-1",
+          "role": "customer",
+          "timestamp": "2026-08-30T21:45:39.801Z"
+        },
+        {
+          "id": "sh-2",
+          "order_id": "ord-demo-101",
+          "previous_status": "pending",
+          "new_status": "accepted",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "timestamp": "2026-08-30T21:48:39.801Z"
+        },
+        {
+          "id": "sh-3",
+          "order_id": "ord-demo-101",
+          "previous_status": "accepted",
+          "new_status": "preparing",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "timestamp": "2026-08-30T21:50:39.801Z"
+        },
+        {
+          "id": "sh-4",
+          "order_id": "ord-demo-101",
+          "previous_status": "preparing",
+          "new_status": "ready",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "timestamp": "2026-08-30T22:02:39.801Z"
+        },
+        {
+          "id": "sh-5",
+          "order_id": "ord-demo-101",
+          "previous_status": "ready",
+          "new_status": "driver_assigned",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "timestamp": "2026-08-30T22:03:39.801Z"
+        },
+        {
+          "id": "sh-6",
+          "order_id": "ord-demo-101",
+          "previous_status": "driver_assigned",
+          "new_status": "picked_up",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "timestamp": "2026-08-30T22:05:39.801Z"
+        },
+        {
+          "id": "sh-7",
+          "order_id": "ord-demo-101",
+          "previous_status": "picked_up",
+          "new_status": "on_the_way",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "timestamp": "2026-08-30T22:06:39.801Z"
+        }
+      ]
+    },
+    {
+      "id": "ord-test-state-1788128142789",
+      "order_number": "ORD-1788128142789",
+      "customer_id": "usr-1",
+      "restaurant_id": "rest-1",
+      "delivery_address": {
+        "id": "addr-1",
+        "user_id": "usr-cust-1",
+        "title": "المنزل",
+        "city": "دمشق",
+        "district": "كفرسوسة",
+        "street_details": "جانب جامع الهدى، دخلة صيدلية السلام",
+        "building": "بناء الياسمين 14",
+        "floor": "الطابق الثاني - شقة 5",
+        "notes": "يرجى رن الجرس بهدوء لوجود أطفال",
+        "latitude": 33.4912,
+        "longitude": 36.2785,
+        "is_default": true,
+        "phone_contact": "+963933999000",
+        "created_at": "2026-08-30T22:15:42.351Z"
+      },
+      "items": [
+        {
+          "id": "oi-test-1",
+          "order_id": "ord-test-state-1788128142789",
+          "menu_item_id": "mi-1",
+          "item_name_ar": "شاورما دجاج سوري دبل",
+          "unit_price": 32000,
+          "quantity": 2,
+          "total_price": 64000
+        }
+      ],
+      "subtotal": 64000,
+      "delivery_fee": 10000,
+      "service_fee": 2500,
+      "discount": 0,
+      "grand_total": 76500,
+      "status": "preparing",
+      "payment_method": "cash_on_delivery",
+      "payment_status": "pending",
+      "created_at": "2026-08-30T22:15:42.789Z",
+      "updated_at": "2026-08-30T22:15:42.791Z",
+      "accepted_at": "2026-08-30T22:15:42.790Z"
+    },
+    {
+      "id": "ord-test-state-1788128166078",
+      "order_number": "WS-2026-3870",
+      "customer_id": "usr-1",
+      "customer_name": "أحمد السوري",
+      "customer_phone": "+963911111111",
+      "restaurant_id": "rest-1",
+      "restaurant_name": "شاورما الشام الأصيلة",
+      "restaurant_phone": "+963933222333",
+      "restaurant_latitude": 33.4975,
+      "restaurant_longitude": 36.275,
+      "delivery_address": {
+        "city": "دمشق",
+        "district": "الميدان",
+        "street_details": "الشارع الرئيسي",
+        "building": "بناء السلام",
+        "floor": "الطابق الثاني",
+        "phone": "+963911111111"
+      },
+      "delivery_latitude": 33.517500000000005,
+      "delivery_longitude": 36.295,
+      "subtotal": 64000,
+      "delivery_fee": 10000,
+      "service_fee": 2500,
+      "discount_amount": 0,
+      "total_amount": 76500,
+      "restaurant_net": 56320,
+      "platform_commission": 7680,
+      "driver_earning": 10000,
+      "status": "delivered",
+      "payment_method": "cash_on_delivery",
+      "payment_status": "collected",
+      "created_at": "2026-08-30T22:16:06.078Z",
+      "updated_at": "2026-08-30T22:16:06.110Z",
+      "prep_time_estimate": 25,
+      "accepted_at": "2026-08-30T22:16:06.078Z",
+      "ready_at": "2026-08-30T22:16:06.080Z",
+      "driver_id": "drv-1",
+      "driver_name": "أحمد السعيد (كابتن دمشق)",
+      "driver_phone": "+963988666777",
+      "driver_latitude": 33.502,
+      "driver_longitude": 36.28,
+      "picked_up_at": "2026-08-30T22:16:06.109Z",
+      "delivered_at": "2026-08-30T22:16:06.110Z"
+    },
+    {
+      "id": "ord-test-state-1788128869098",
+      "order_number": "WS-2026-6063",
+      "customer_id": "usr-1",
+      "customer_name": "أحمد السوري",
+      "customer_phone": "+963911111111",
+      "restaurant_id": "rest-1",
+      "restaurant_name": "شاورما الشام الأصيلة",
+      "restaurant_phone": "+963933222333",
+      "restaurant_latitude": 33.4975,
+      "restaurant_longitude": 36.275,
+      "delivery_address": {
+        "city": "دمشق",
+        "district": "الميدان",
+        "street_details": "الشارع الرئيسي",
+        "building": "بناء السلام",
+        "floor": "الطابق الثاني",
+        "phone": "+963911111111"
+      },
+      "delivery_latitude": 33.517500000000005,
+      "delivery_longitude": 36.295,
+      "subtotal": 64000,
+      "delivery_fee": 10000,
+      "service_fee": 2500,
+      "discount_amount": 0,
+      "total_amount": 76500,
+      "restaurant_net": 56320,
+      "platform_commission": 7680,
+      "driver_earning": 10000,
+      "status": "delivered",
+      "payment_method": "CASH",
+      "payment_status": "collected",
+      "created_at": "2026-08-30T22:27:49.099Z",
+      "updated_at": "2026-08-30T22:27:49.124Z",
+      "prep_time_estimate": 25,
+      "accepted_at": "2026-08-30T22:27:49.099Z",
+      "status_history": [
+        {
+          "id": "sh-1788128869099-884",
+          "order_id": "ord-test-state-1788128869098",
+          "previous_status": "pending",
+          "new_status": "accepted",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "notes": "تم قبول الطلب",
+          "timestamp": "2026-08-30T22:27:49.099Z"
+        },
+        {
+          "id": "sh-1788128869100-411",
+          "order_id": "ord-test-state-1788128869098",
+          "previous_status": "accepted",
+          "new_status": "preparing",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "notes": "جاري التحضير",
+          "timestamp": "2026-08-30T22:27:49.100Z"
+        },
+        {
+          "id": "sh-1788128869121-422",
+          "order_id": "ord-test-state-1788128869098",
+          "previous_status": "preparing",
+          "new_status": "ready",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "notes": "جاهز للتوصيل",
+          "timestamp": "2026-08-30T22:27:49.121Z"
+        },
+        {
+          "id": "sh-1788128869123-243",
+          "order_id": "ord-test-state-1788128869098",
+          "previous_status": "ready",
+          "new_status": "driver_assigned",
+          "changed_by_user_id": "usr-admin-1",
+          "role": "admin",
+          "notes": "إسناد",
+          "timestamp": "2026-08-30T22:27:49.123Z"
+        },
+        {
+          "id": "sh-1788128869123-522",
+          "order_id": "ord-test-state-1788128869098",
+          "previous_status": "driver_assigned",
+          "new_status": "on_the_way",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "notes": "استلام",
+          "timestamp": "2026-08-30T22:27:49.123Z"
+        },
+        {
+          "id": "sh-1788128869125-332",
+          "order_id": "ord-test-state-1788128869098",
+          "previous_status": "on_the_way",
+          "new_status": "delivered",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "notes": "تم التسليم بنجاح",
+          "timestamp": "2026-08-30T22:27:49.125Z"
+        }
+      ],
+      "ready_at": "2026-08-30T22:27:49.101Z",
+      "driver_id": "drv-1",
+      "driver_name": "أحمد السعيد (كابتن دمشق)",
+      "driver_phone": "+963988666777",
+      "driver_latitude": 33.502,
+      "driver_longitude": 36.28,
+      "picked_up_at": "2026-08-30T22:27:49.123Z",
+      "delivered_at": "2026-08-30T22:27:49.124Z",
+      "cash_collection_details": {
+        "amount": 76500,
+        "collector_id": "drv-1",
+        "collector_name": "أحمد السعيد (كابتن دمشق)",
+        "collected_at": "2026-08-30T22:27:49.124Z",
+        "order_id": "ord-test-state-1788128869098",
+        "order_number": "WS-2026-6063"
+      }
+    },
+    {
+      "id": "ord-live-audit-1788129059004",
+      "order_number": "WS-2026-7881",
+      "customer_id": "usr-cust-1",
+      "customer_name": "سامر الخالدي",
+      "customer_phone": "+963933999000",
+      "restaurant_id": "rest-1",
+      "restaurant_name": "شاورما الشام الأصيلة",
+      "restaurant_phone": "+963933222333",
+      "restaurant_latitude": 33.4975,
+      "restaurant_longitude": 36.275,
+      "delivery_address": {
+        "id": "addr-1",
+        "user_id": "usr-cust-1",
+        "title": "المنزل",
+        "city": "دمشق",
+        "district": "كفرسوسة",
+        "street_details": "جانب جامع الهدى، دخلة صيدلية السلام",
+        "building": "بناء الياسمين 14",
+        "floor": "الطابق الثاني - شقة 5",
+        "notes": "يرجى رن الجرس بهدوء لوجود أطفال",
+        "latitude": 33.4912,
+        "longitude": 36.2785,
+        "is_default": true,
+        "phone_contact": "+963933999000",
+        "created_at": "2026-08-30T22:15:42.351Z"
+      },
+      "delivery_latitude": 33.4912,
+      "delivery_longitude": 36.2785,
+      "items": [
+        {
+          "id": "oi-1788129059004",
+          "menu_item_id": "item-101",
+          "title_ar": "وجبة شاورما دجاج عربي دبل",
+          "unit_price": 48000,
+          "quantity": 2,
+          "total_price": 96000,
+          "selected_options": []
+        }
+      ],
+      "subtotal": 96000,
+      "delivery_fee": 9750,
+      "service_fee": 2500,
+      "discount_amount": 0,
+      "total_amount": 108250,
+      "restaurant_net": 84480,
+      "platform_commission": 11520,
+      "driver_earning": 9750,
+      "status": "delivered",
+      "payment_method": "CASH",
+      "payment_status": "collected",
+      "created_at": "2026-08-30T22:30:59.004Z",
+      "updated_at": "2026-08-30T22:30:59.030Z",
+      "status_history": [
+        {
+          "id": "sh-1788129059006-582",
+          "order_id": "ord-live-audit-1788129059004",
+          "previous_status": "pending",
+          "new_status": "accepted",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "notes": "تم القبول",
+          "timestamp": "2026-08-30T22:30:59.006Z"
+        },
+        {
+          "id": "sh-1788129059007-287",
+          "order_id": "ord-live-audit-1788129059004",
+          "previous_status": "accepted",
+          "new_status": "preparing",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "notes": "جاري الطهي",
+          "timestamp": "2026-08-30T22:30:59.007Z"
+        },
+        {
+          "id": "sh-1788129059026-851",
+          "order_id": "ord-live-audit-1788129059004",
+          "previous_status": "preparing",
+          "new_status": "ready",
+          "changed_by_user_id": "usr-rest-1",
+          "role": "restaurant",
+          "notes": "جاهز للتسليم",
+          "timestamp": "2026-08-30T22:30:59.026Z"
+        },
+        {
+          "id": "sh-1788129059028-84",
+          "order_id": "ord-live-audit-1788129059004",
+          "previous_status": "ready",
+          "new_status": "driver_assigned",
+          "changed_by_user_id": "usr-admin-1",
+          "role": "admin",
+          "notes": "إسناد",
+          "timestamp": "2026-08-30T22:30:59.028Z"
+        },
+        {
+          "id": "sh-1788129059029-906",
+          "order_id": "ord-live-audit-1788129059004",
+          "previous_status": "driver_assigned",
+          "new_status": "on_the_way",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "notes": "تم الاستلام من المطعم",
+          "timestamp": "2026-08-30T22:30:59.029Z"
+        },
+        {
+          "id": "sh-1788129059032-804",
+          "order_id": "ord-live-audit-1788129059004",
+          "previous_status": "on_the_way",
+          "new_status": "delivered",
+          "changed_by_user_id": "usr-driver-1",
+          "role": "driver",
+          "notes": "تم التسليم وقبض الكاش",
+          "timestamp": "2026-08-30T22:30:59.032Z"
+        }
+      ],
+      "prep_time_estimate": 20,
+      "accepted_at": "2026-08-30T22:30:59.005Z",
+      "ready_at": "2026-08-30T22:30:59.008Z",
+      "driver_id": "drv-1",
+      "driver_name": "أحمد السعيد (كابتن دمشق)",
+      "driver_phone": "+963988666777",
+      "driver_latitude": 33.502,
+      "driver_longitude": 36.28,
+      "picked_up_at": "2026-08-30T22:30:59.029Z",
+      "delivered_at": "2026-08-30T22:30:59.030Z",
+      "cash_collection_details": {
+        "amount": 108250,
+        "collector_id": "drv-1",
+        "collector_name": "أحمد السعيد (كابتن دمشق)",
+        "collected_at": "2026-08-30T22:30:59.030Z",
+        "order_id": "ord-live-audit-1788129059004",
+        "order_number": "WS-2026-7881"
+      }
+    }
+  ],
+  "order_items": [
+    {
+      "id": "oitem-1",
+      "order_id": "ord-demo-101",
+      "menu_item_id": "item-101",
+      "item_name": "وجبة شاورما دجاج عربي دبل",
+      "unit_price": 48000,
+      "quantity": 1,
+      "subtotal": 48000,
+      "selected_options": [
+        {
+          "group_name_ar": "إضافات الصوص",
+          "name_ar": "ثومية إضافية",
+          "price_modifier": 0
+        }
+      ]
+    }
+  ],
+  "order_status_history": [
+    {
+      "id": "sh-1",
+      "order_id": "ord-demo-101",
+      "new_status": "pending",
+      "changed_by_user_id": "usr-cust-1",
+      "role": "customer",
+      "timestamp": "2026-08-30T21:45:39.801Z"
+    },
+    {
+      "id": "sh-2",
+      "order_id": "ord-demo-101",
+      "previous_status": "pending",
+      "new_status": "accepted",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "timestamp": "2026-08-30T21:48:39.801Z"
+    },
+    {
+      "id": "sh-3",
+      "order_id": "ord-demo-101",
+      "previous_status": "accepted",
+      "new_status": "preparing",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "timestamp": "2026-08-30T21:50:39.801Z"
+    },
+    {
+      "id": "sh-4",
+      "order_id": "ord-demo-101",
+      "previous_status": "preparing",
+      "new_status": "ready",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "timestamp": "2026-08-30T22:02:39.801Z"
+    },
+    {
+      "id": "sh-5",
+      "order_id": "ord-demo-101",
+      "previous_status": "ready",
+      "new_status": "driver_assigned",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "timestamp": "2026-08-30T22:03:39.801Z"
+    },
+    {
+      "id": "sh-6",
+      "order_id": "ord-demo-101",
+      "previous_status": "driver_assigned",
+      "new_status": "picked_up",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "timestamp": "2026-08-30T22:05:39.801Z"
+    },
+    {
+      "id": "sh-7",
+      "order_id": "ord-demo-101",
+      "previous_status": "picked_up",
+      "new_status": "on_the_way",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "timestamp": "2026-08-30T22:06:39.801Z"
+    },
+    {
+      "id": "sh-1788128142790",
+      "order_id": "ord-test-state-1788128142789",
+      "previous_status": "pending",
+      "new_status": "accepted",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "تم قبول الطلب",
+      "timestamp": "2026-08-30T22:15:42.790Z"
+    },
+    {
+      "id": "sh-1788128142791",
+      "order_id": "ord-test-state-1788128142789",
+      "previous_status": "accepted",
+      "new_status": "preparing",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاري التحضير",
+      "timestamp": "2026-08-30T22:15:42.791Z"
+    },
+    {
+      "id": "sh-1788128166078",
+      "order_id": "ord-test-state-1788128166078",
+      "previous_status": "pending",
+      "new_status": "accepted",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "تم قبول الطلب",
+      "timestamp": "2026-08-30T22:16:06.078Z"
+    },
+    {
+      "id": "sh-1788128166079",
+      "order_id": "ord-test-state-1788128166078",
+      "previous_status": "accepted",
+      "new_status": "preparing",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاري التحضير",
+      "timestamp": "2026-08-30T22:16:06.079Z"
+    },
+    {
+      "id": "sh-1788128166108",
+      "order_id": "ord-test-state-1788128166078",
+      "previous_status": "preparing",
+      "new_status": "ready",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاهز للتوصيل",
+      "timestamp": "2026-08-30T22:16:06.108Z"
+    },
+    {
+      "id": "sh-1788128166109",
+      "order_id": "ord-test-state-1788128166078",
+      "previous_status": "ready",
+      "new_status": "driver_assigned",
+      "changed_by_user_id": "system",
+      "role": "system",
+      "notes": "إسناد",
+      "timestamp": "2026-08-30T22:16:06.109Z"
+    },
+    {
+      "id": "sh-1788128166109",
+      "order_id": "ord-test-state-1788128166078",
+      "previous_status": "driver_assigned",
+      "new_status": "on_the_way",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "notes": "استلام",
+      "timestamp": "2026-08-30T22:16:06.109Z"
+    },
+    {
+      "id": "sh-1788128166111",
+      "order_id": "ord-test-state-1788128166078",
+      "previous_status": "on_the_way",
+      "new_status": "delivered",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "notes": "تم التسليم بنجاح",
+      "timestamp": "2026-08-30T22:16:06.111Z"
+    },
+    {
+      "id": "sh-1788128869099-884",
+      "order_id": "ord-test-state-1788128869098",
+      "previous_status": "pending",
+      "new_status": "accepted",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "تم قبول الطلب",
+      "timestamp": "2026-08-30T22:27:49.099Z"
+    },
+    {
+      "id": "sh-1788128869100-411",
+      "order_id": "ord-test-state-1788128869098",
+      "previous_status": "accepted",
+      "new_status": "preparing",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاري التحضير",
+      "timestamp": "2026-08-30T22:27:49.100Z"
+    },
+    {
+      "id": "sh-1788128869121-422",
+      "order_id": "ord-test-state-1788128869098",
+      "previous_status": "preparing",
+      "new_status": "ready",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاهز للتوصيل",
+      "timestamp": "2026-08-30T22:27:49.121Z"
+    },
+    {
+      "id": "sh-1788128869123-243",
+      "order_id": "ord-test-state-1788128869098",
+      "previous_status": "ready",
+      "new_status": "driver_assigned",
+      "changed_by_user_id": "usr-admin-1",
+      "role": "admin",
+      "notes": "إسناد",
+      "timestamp": "2026-08-30T22:27:49.123Z"
+    },
+    {
+      "id": "sh-1788128869123-522",
+      "order_id": "ord-test-state-1788128869098",
+      "previous_status": "driver_assigned",
+      "new_status": "on_the_way",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "notes": "استلام",
+      "timestamp": "2026-08-30T22:27:49.123Z"
+    },
+    {
+      "id": "sh-1788128869125-332",
+      "order_id": "ord-test-state-1788128869098",
+      "previous_status": "on_the_way",
+      "new_status": "delivered",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "notes": "تم التسليم بنجاح",
+      "timestamp": "2026-08-30T22:27:49.125Z"
+    },
+    {
+      "id": "sh-1788129059006-582",
+      "order_id": "ord-live-audit-1788129059004",
+      "previous_status": "pending",
+      "new_status": "accepted",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "تم القبول",
+      "timestamp": "2026-08-30T22:30:59.006Z"
+    },
+    {
+      "id": "sh-1788129059007-287",
+      "order_id": "ord-live-audit-1788129059004",
+      "previous_status": "accepted",
+      "new_status": "preparing",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاري الطهي",
+      "timestamp": "2026-08-30T22:30:59.007Z"
+    },
+    {
+      "id": "sh-1788129059026-851",
+      "order_id": "ord-live-audit-1788129059004",
+      "previous_status": "preparing",
+      "new_status": "ready",
+      "changed_by_user_id": "usr-rest-1",
+      "role": "restaurant",
+      "notes": "جاهز للتسليم",
+      "timestamp": "2026-08-30T22:30:59.026Z"
+    },
+    {
+      "id": "sh-1788129059028-84",
+      "order_id": "ord-live-audit-1788129059004",
+      "previous_status": "ready",
+      "new_status": "driver_assigned",
+      "changed_by_user_id": "usr-admin-1",
+      "role": "admin",
+      "notes": "إسناد",
+      "timestamp": "2026-08-30T22:30:59.028Z"
+    },
+    {
+      "id": "sh-1788129059029-906",
+      "order_id": "ord-live-audit-1788129059004",
+      "previous_status": "driver_assigned",
+      "new_status": "on_the_way",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "notes": "تم الاستلام من المطعم",
+      "timestamp": "2026-08-30T22:30:59.029Z"
+    },
+    {
+      "id": "sh-1788129059032-804",
+      "order_id": "ord-live-audit-1788129059004",
+      "previous_status": "on_the_way",
+      "new_status": "delivered",
+      "changed_by_user_id": "usr-driver-1",
+      "role": "driver",
+      "notes": "تم التسليم وقبض الكاش",
+      "timestamp": "2026-08-30T22:30:59.032Z"
+    }
+  ],
+  "drivers": [
+    {
+      "id": "drv-1",
+      "user_id": "usr-driver-1",
+      "full_name": "أحمد السعيد (كابتن دمشق)",
+      "phone": "+963988666777",
+      "vehicle_type": "motorcycle",
+      "vehicle_plate": "دمشق 48921",
+      "city": "دمشق",
+      "current_latitude": 33.502,
+      "current_longitude": 36.28,
+      "is_online": true,
+      "status": "online",
+      "is_approved": true,
+      "national_id": "01029384756",
+      "rating": 4.9,
+      "total_deliveries": 423,
+      "documents": [
+        {
+          "id": "doc-1",
+          "driver_id": "drv-1",
+          "doc_type": "driving_license",
+          "doc_url": "https://placehold.co/600x400/png?text=Driving+License",
+          "status": "verified",
+          "verified_at": "2026-08-30T22:10:39.800Z"
+        },
+        {
+          "id": "doc-2",
+          "driver_id": "drv-1",
+          "doc_type": "national_id_front",
+          "doc_url": "https://placehold.co/600x400/png?text=National+ID",
+          "status": "verified",
+          "verified_at": "2026-08-30T22:10:39.800Z"
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.801Z"
+    },
+    {
+      "id": "drv-2",
+      "user_id": "usr-driver-2",
+      "full_name": "طارق المصري (كابتن المزة)",
+      "phone": "+963999777888",
+      "vehicle_type": "motorcycle",
+      "vehicle_plate": "دمشق 93812",
+      "city": "دمشق",
+      "current_latitude": 33.495,
+      "current_longitude": 36.262,
+      "is_online": true,
+      "status": "online",
+      "is_approved": true,
+      "national_id": "01098473625",
+      "rating": 4.85,
+      "total_deliveries": 310,
+      "documents": [
+        {
+          "id": "doc-3",
+          "driver_id": "drv-2",
+          "doc_type": "driving_license",
+          "doc_url": "https://placehold.co/600x400/png?text=Driving+License",
+          "status": "verified",
+          "verified_at": "2026-08-30T22:10:39.801Z"
+        }
+      ],
+      "created_at": "2026-08-30T22:10:39.801Z"
+    }
+  ],
+  "driver_assignments": [
+    {
+      "id": "da-1",
+      "order_id": "ord-demo-101",
+      "driver_id": "drv-1",
+      "status": "accepted",
+      "offered_at": "2026-08-30T22:02:39.801Z",
+      "responded_at": "2026-08-30T22:03:39.801Z"
+    },
+    {
+      "id": "da-1788128166081",
+      "order_id": "ord-test-state-1788128166078",
+      "driver_id": "drv-1",
+      "status": "offered",
+      "offered_at": "2026-08-30T22:16:06.081Z"
+    },
+    {
+      "id": "da-1788128869102",
+      "order_id": "ord-test-state-1788128869098",
+      "driver_id": "drv-1",
+      "status": "offered",
+      "offered_at": "2026-08-30T22:27:49.102Z"
+    },
+    {
+      "id": "da-1788129059009",
+      "order_id": "ord-live-audit-1788129059004",
+      "driver_id": "drv-1",
+      "status": "offered",
+      "offered_at": "2026-08-30T22:30:59.009Z"
+    }
+  ],
+  "driver_earnings": [
+    {
+      "id": "drve-1788128166110",
+      "driver_id": "drv-1",
+      "order_id": "ord-test-state-1788128166078",
+      "order_number": "WS-2026-3870",
+      "delivery_fee_earned": 10000,
+      "bonus_amount": 0,
+      "tip_amount": 0,
+      "total_earned": 10000,
+      "paid_status": "paid",
+      "created_at": "2026-08-30T22:16:06.110Z"
+    },
+    {
+      "id": "drve-1788128869124",
+      "driver_id": "drv-1",
+      "order_id": "ord-test-state-1788128869098",
+      "order_number": "WS-2026-6063",
+      "delivery_fee_earned": 10000,
+      "bonus_amount": 0,
+      "tip_amount": 0,
+      "total_earned": 10000,
+      "paid_status": "paid",
+      "created_at": "2026-08-30T22:27:49.124Z"
+    },
+    {
+      "id": "drve-1788129059030",
+      "driver_id": "drv-1",
+      "order_id": "ord-live-audit-1788129059004",
+      "order_number": "WS-2026-7881",
+      "delivery_fee_earned": 9750,
+      "bonus_amount": 0,
+      "tip_amount": 0,
+      "total_earned": 9750,
+      "paid_status": "paid",
+      "created_at": "2026-08-30T22:30:59.030Z"
+    }
+  ],
+  "financial_transactions": [
+    {
+      "id": "tx-101",
+      "transaction_number": "TXN-2026-001",
+      "order_id": "ord-demo-101",
+      "entity_type": "platform",
+      "entity_id": "platform-main",
+      "entity_name": "منصة وصّلني",
+      "amount": 8260,
+      "direction": "credit",
+      "transaction_type": "platform_commission",
+      "balance_after": 8260,
+      "status": "completed",
+      "notes": "عمولة ورسوم خدمة الطلب WS-2026-1048",
+      "created_at": "2026-08-30T22:10:39.801Z"
+    },
+    {
+      "id": "tx-1788128166110-1",
+      "transaction_number": "TXN-1788128166110-PLT",
+      "order_id": "ord-test-state-1788128166078",
+      "entity_type": "platform",
+      "entity_id": "platform-treasury",
+      "entity_name": "إيرادات منصة وصّلني",
+      "amount": 10180,
+      "direction": "credit",
+      "transaction_type": "platform_commission",
+      "balance_after": 10180,
+      "status": "completed",
+      "notes": "عمولة المنصة (7680 ل.س) ورسوم الخدمة (2500 ل.س) للطلب رقم WS-2026-3870",
+      "created_at": "2026-08-30T22:16:06.110Z"
+    },
+    {
+      "id": "tx-1788128166110-2",
+      "transaction_number": "TXN-1788128166110-RST",
+      "order_id": "ord-test-state-1788128166078",
+      "entity_type": "restaurant",
+      "entity_id": "rest-1",
+      "entity_name": "شاورما الشام الأصيلة",
+      "amount": 56320,
+      "direction": "credit",
+      "transaction_type": "restaurant_payout",
+      "balance_after": 56320,
+      "status": "completed",
+      "notes": "صافي مستحقات المطعم للطلب رقم WS-2026-3870 (بعد خصم العمولة)",
+      "created_at": "2026-08-30T22:16:06.110Z"
+    },
+    {
+      "id": "tx-1788128166110-3",
+      "transaction_number": "TXN-1788128166110-DRV",
+      "order_id": "ord-test-state-1788128166078",
+      "entity_type": "driver",
+      "entity_id": "drv-1",
+      "entity_name": "أحمد السعيد (كابتن دمشق)",
+      "amount": 10000,
+      "direction": "credit",
+      "transaction_type": "driver_payout",
+      "balance_after": 10000,
+      "status": "completed",
+      "notes": "أجرة توصيل الطلب رقم WS-2026-3870",
+      "created_at": "2026-08-30T22:16:06.110Z"
+    },
+    {
+      "id": "tx-1788128869124-1",
+      "transaction_number": "TXN-1788128869124-PLT",
+      "order_id": "ord-test-state-1788128869098",
+      "entity_type": "platform",
+      "entity_id": "platform-treasury",
+      "entity_name": "إيرادات منصة وصّلني",
+      "amount": 10180,
+      "direction": "credit",
+      "transaction_type": "platform_commission",
+      "balance_after": 20360,
+      "status": "completed",
+      "notes": "عمولة المنصة (7680 ل.س) ورسوم الخدمة (2500 ل.س) للطلب رقم WS-2026-6063",
+      "created_at": "2026-08-30T22:27:49.124Z"
+    },
+    {
+      "id": "tx-1788128869124-2",
+      "transaction_number": "TXN-1788128869124-RST",
+      "order_id": "ord-test-state-1788128869098",
+      "entity_type": "restaurant",
+      "entity_id": "rest-1",
+      "entity_name": "شاورما الشام الأصيلة",
+      "amount": 56320,
+      "direction": "credit",
+      "transaction_type": "restaurant_payout",
+      "balance_after": 112640,
+      "status": "completed",
+      "notes": "صافي مستحقات المطعم للطلب رقم WS-2026-6063 (بعد خصم العمولة)",
+      "created_at": "2026-08-30T22:27:49.124Z"
+    },
+    {
+      "id": "tx-1788128869124-3",
+      "transaction_number": "TXN-1788128869124-DRV",
+      "order_id": "ord-test-state-1788128869098",
+      "entity_type": "driver",
+      "entity_id": "drv-1",
+      "entity_name": "أحمد السعيد (كابتن دمشق)",
+      "amount": 10000,
+      "direction": "credit",
+      "transaction_type": "driver_payout",
+      "balance_after": 20000,
+      "status": "completed",
+      "notes": "أجرة توصيل الطلب رقم WS-2026-6063",
+      "created_at": "2026-08-30T22:27:49.124Z"
+    },
+    {
+      "id": "tx-1788129059030-1",
+      "transaction_number": "TXN-1788129059030-PLT",
+      "order_id": "ord-live-audit-1788129059004",
+      "entity_type": "platform",
+      "entity_id": "platform-treasury",
+      "entity_name": "إيرادات منصة وصّلني",
+      "amount": 14020,
+      "direction": "credit",
+      "transaction_type": "platform_commission",
+      "balance_after": 34380,
+      "status": "completed",
+      "notes": "عمولة المنصة (11520 ل.س) ورسوم الخدمة (2500 ل.س) للطلب رقم WS-2026-7881",
+      "created_at": "2026-08-30T22:30:59.030Z"
+    },
+    {
+      "id": "tx-1788129059030-2",
+      "transaction_number": "TXN-1788129059030-RST",
+      "order_id": "ord-live-audit-1788129059004",
+      "entity_type": "restaurant",
+      "entity_id": "rest-1",
+      "entity_name": "شاورما الشام الأصيلة",
+      "amount": 84480,
+      "direction": "credit",
+      "transaction_type": "restaurant_payout",
+      "balance_after": 197120,
+      "status": "completed",
+      "notes": "صافي مستحقات المطعم للطلب رقم WS-2026-7881 (بعد خصم العمولة)",
+      "created_at": "2026-08-30T22:30:59.030Z"
+    },
+    {
+      "id": "tx-1788129059030-3",
+      "transaction_number": "TXN-1788129059030-DRV",
+      "order_id": "ord-live-audit-1788129059004",
+      "entity_type": "driver",
+      "entity_id": "drv-1",
+      "entity_name": "أحمد السعيد (كابتن دمشق)",
+      "amount": 9750,
+      "direction": "credit",
+      "transaction_type": "driver_payout",
+      "balance_after": 29750,
+      "status": "completed",
+      "notes": "أجرة توصيل الطلب رقم WS-2026-7881",
+      "created_at": "2026-08-30T22:30:59.030Z"
+    }
+  ],
+  "commissions": [
+    {
+      "id": "comm-default",
+      "name": "الإعدادات المالية الافتراضية لمنصة وصّلني",
+      "default_restaurant_commission_pct": 12,
+      "default_service_fee": 2500,
+      "base_delivery_fee_per_km": 1500,
+      "min_delivery_fee": 5000,
+      "updated_at": "2026-08-30T22:10:39.801Z",
+      "updated_by": "usr-admin-1"
+    }
+  ],
+  "delivery_zones": [
+    {
+      "id": "zone-1",
+      "city": "دمشق",
+      "name_ar": "وسط دمشق والشعلان والمزرعة",
+      "base_fee": 5000,
+      "min_order": 30000,
+      "is_active": true,
+      "center_lat": 33.5138,
+      "center_lng": 36.2765
+    },
+    {
+      "id": "zone-2",
+      "city": "دمشق",
+      "name_ar": "المزة وكفرسوسة واللوان",
+      "base_fee": 6000,
+      "min_order": 30000,
+      "is_active": true,
+      "center_lat": 33.4975,
+      "center_lng": 36.255
+    },
+    {
+      "id": "zone-3",
+      "city": "دمشق",
+      "name_ar": "أبو رمانة والمالكي والروضة",
+      "base_fee": 5500,
+      "min_order": 35000,
+      "is_active": true,
+      "center_lat": 33.522,
+      "center_lng": 36.284
+    },
+    {
+      "id": "zone-4",
+      "city": "دمشق",
+      "name_ar": "القصاع وباب توما ودمشق القديمة",
+      "base_fee": 6000,
+      "min_order": 30000,
+      "is_active": true,
+      "center_lat": 33.512,
+      "center_lng": 36.315
+    },
+    {
+      "id": "zone-5",
+      "city": "دمشق",
+      "name_ar": "الميدان والزاهرة وبستان الدور",
+      "base_fee": 6500,
+      "min_order": 30000,
+      "is_active": true,
+      "center_lat": 33.488,
+      "center_lng": 36.292
+    },
+    {
+      "id": "zone-6",
+      "city": "حلب",
+      "name_ar": "حلب - الفرقان والشهباء والجميلية",
+      "base_fee": 6000,
+      "min_order": 35000,
+      "is_active": true,
+      "center_lat": 36.2021,
+      "center_lng": 37.1343
+    },
+    {
+      "id": "zone-7",
+      "city": "حمص",
+      "name_ar": "حمص - الحمرا والإنشاءات والدبلان",
+      "base_fee": 5000,
+      "min_order": 30000,
+      "is_active": true,
+      "center_lat": 34.7324,
+      "center_lng": 36.7137
+    },
+    {
+      "id": "zone-8",
+      "city": "اللاذقية",
+      "name_ar": "اللاذقية - الصليبة والزراعة ومشروع الصليبة",
+      "base_fee": 5500,
+      "min_order": 30000,
+      "is_active": true,
+      "center_lat": 35.5317,
+      "center_lng": 35.7915
+    }
+  ],
+  "coupons": [
+    {
+      "id": "coup-1",
+      "code": "WASSALNI10",
+      "discount_type": "percentage",
+      "discount_value": 10,
+      "min_order_amount": 40000,
+      "max_discount": 15000,
+      "start_date": "2026-01-01T00:00:00Z",
+      "end_date": "2026-12-31T23:59:59Z",
+      "max_usage_total": 1000,
+      "usage_count": 42,
+      "is_active": true,
+      "created_at": "2026-08-30T22:10:39.801Z"
+    },
+    {
+      "id": "coup-2",
+      "code": "SHAM5000",
+      "discount_type": "fixed",
+      "discount_value": 5000,
+      "min_order_amount": 50000,
+      "start_date": "2026-01-01T00:00:00Z",
+      "end_date": "2026-12-31T23:59:59Z",
+      "max_usage_total": 500,
+      "usage_count": 18,
+      "is_active": true,
+      "created_at": "2026-08-30T22:10:39.801Z"
+    }
+  ],
+  "reviews": [],
+  "notifications": [
+    {
+      "id": "notif-1",
+      "user_id": "usr-cust-1",
+      "title_ar": "الطلب في الطريق إليك 🛵",
+      "body_ar": "الكابتن أحمد السعيد في طريقه لتسليم طلبك من شاورما الشام الأصيلة",
+      "type": "driver",
+      "is_read": false,
+      "order_id": "ord-demo-101",
+      "created_at": "2026-08-30T22:10:39.801Z"
+    },
+    {
+      "id": "notif-1788128142790-335",
+      "user_id": "usr-1",
+      "title_ar": "تم قبول طلبك بنجاح ✅",
+      "body_ar": "مطعم undefined بدأ بتجهيز طلبك ومدة التحضير المتوقعة 20 دقيقة",
+      "type": "order",
+      "order_id": "ord-test-state-1788128142789",
+      "is_read": false,
+      "created_at": "2026-08-30T22:15:42.790Z"
+    },
+    {
+      "id": "notif-1788128142791-613",
+      "user_id": "usr-1",
+      "title_ar": "جاري تحضير طعامك 🍳",
+      "body_ar": "الشيف يقوم الآن بتحضير الوجبات الساخنة بعناية",
+      "type": "order",
+      "order_id": "ord-test-state-1788128142789",
+      "is_read": false,
+      "created_at": "2026-08-30T22:15:42.791Z"
+    },
+    {
+      "id": "notif-1788128166078-911",
+      "user_id": "usr-1",
+      "title_ar": "تم قبول طلبك بنجاح ✅",
+      "body_ar": "مطعم شاورما الشام الأصيلة بدأ بتجهيز طلبك ومدة التحضير المتوقعة 25 دقيقة",
+      "type": "order",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.078Z"
+    },
+    {
+      "id": "notif-1788128166079-651",
+      "user_id": "usr-1",
+      "title_ar": "جاري تحضير طعامك 🍳",
+      "body_ar": "الشيف يقوم الآن بتحضير الوجبات الساخنة بعناية",
+      "type": "order",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.079Z"
+    },
+    {
+      "id": "notif-1788128166080-995",
+      "user_id": "usr-1",
+      "title_ar": "طلبك جاهز للاستلام 📦",
+      "body_ar": "وجبتك جاهزة وتم إرسال إشعار للمندوب لاستلامها فوراً",
+      "type": "order",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.080Z"
+    },
+    {
+      "id": "notif-drv-1788128166081",
+      "user_id": "usr-driver-1",
+      "title_ar": "عرض توصيل طلب جديد 🛵",
+      "body_ar": "طلب جديد من شاورما الشام الأصيلة بقيمة أرباح توصيل 10,000 ل.س",
+      "type": "driver",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.107Z"
+    },
+    {
+      "id": "notif-1788128166109-275",
+      "user_id": "usr-1",
+      "title_ar": "تم تعيين المندوب 🛵",
+      "body_ar": "الكابتن أحمد السعيد (كابتن دمشق) سيتولى توصيل طلبك",
+      "type": "order",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.109Z"
+    },
+    {
+      "id": "notif-1788128166109-11",
+      "user_id": "usr-1",
+      "title_ar": "الكابتن في الطريق إليك 🚀",
+      "body_ar": "تم استلام الطلب من المطعم والمندوب متوجه لعنوانك الآن",
+      "type": "order",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.109Z"
+    },
+    {
+      "id": "notif-1788128166111-235",
+      "user_id": "usr-1",
+      "title_ar": "تم تسليم الطلب بنجاح 🌟",
+      "body_ar": "صحتين وعافية! نتمنى أن تنال الوجبة إعجابك، يرجى تقييم تجربتك",
+      "type": "order",
+      "order_id": "ord-test-state-1788128166078",
+      "is_read": false,
+      "created_at": "2026-08-30T22:16:06.111Z"
+    },
+    {
+      "id": "notif-drv-1788128869102",
+      "user_id": "usr-driver-1",
+      "title_ar": "عرض توصيل طلب جديد 🛵",
+      "body_ar": "طلب جديد من شاورما الشام الأصيلة بقيمة أرباح توصيل 10,000 ل.س",
+      "type": "driver",
+      "order_id": "ord-test-state-1788128869098",
+      "is_read": false,
+      "created_at": "2026-08-30T22:27:49.120Z"
+    },
+    {
+      "id": "notif-1788128869122-81",
+      "user_id": "usr-driver-1",
+      "title_ar": "تم إسناد الطلب إليك 🎯",
+      "body_ar": "تم تأكيد إسناد طلب رقم WS-2026-6063 إليك، يرجى التوجه لمطعم شاورما الشام الأصيلة",
+      "type": "driver",
+      "order_id": "ord-test-state-1788128869098",
+      "is_read": false,
+      "created_at": "2026-08-30T22:27:49.122Z"
+    },
+    {
+      "id": "notif-1788129059005-433",
+      "user_id": "usr-cust-1",
+      "title_ar": "تم قبول طلبك بنجاح ✅",
+      "body_ar": "مطعم شاورما الشام الأصيلة بدأ بتجهيز طلبك ومدة التحضير المتوقعة 20 دقيقة",
+      "type": "order",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.005Z"
+    },
+    {
+      "id": "notif-1788129059006-655",
+      "user_id": "usr-cust-1",
+      "title_ar": "جاري تحضير طعامك 🍳",
+      "body_ar": "الشيف يقوم الآن بتحضير الوجبات الساخنة بعناية",
+      "type": "order",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.006Z"
+    },
+    {
+      "id": "notif-1788129059008-874",
+      "user_id": "usr-cust-1",
+      "title_ar": "طلبك جاهز للاستلام 📦",
+      "body_ar": "وجبتك جاهزة وتم إرسال إشعار للمندوب لاستلامها فوراً",
+      "type": "order",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.008Z"
+    },
+    {
+      "id": "notif-drv-1788129059009",
+      "user_id": "usr-driver-1",
+      "title_ar": "عرض توصيل طلب جديد 🛵",
+      "body_ar": "طلب جديد من شاورما الشام الأصيلة بقيمة أرباح توصيل 9,750 ل.س",
+      "type": "driver",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.025Z"
+    },
+    {
+      "id": "notif-1788129059027-879",
+      "user_id": "usr-cust-1",
+      "title_ar": "تم تعيين المندوب 🛵",
+      "body_ar": "الكابتن أحمد السعيد (كابتن دمشق) سيتولى توصيل طلبك",
+      "type": "order",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.027Z"
+    },
+    {
+      "id": "notif-1788129059027-640",
+      "user_id": "usr-driver-1",
+      "title_ar": "تم إسناد الطلب إليك 🎯",
+      "body_ar": "تم تأكيد إسناد طلب رقم WS-2026-7881 إليك، يرجى التوجه لمطعم شاورما الشام الأصيلة",
+      "type": "driver",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.027Z"
+    },
+    {
+      "id": "notif-1788129059029-110",
+      "user_id": "usr-cust-1",
+      "title_ar": "الكابتن في الطريق إليك 🚀",
+      "body_ar": "تم استلام الطلب من المطعم والمندوب متوجه لعنوانك الآن",
+      "type": "order",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.029Z"
+    },
+    {
+      "id": "notif-1788129059031-727",
+      "user_id": "usr-cust-1",
+      "title_ar": "تم تسليم الطلب بنجاح 🌟",
+      "body_ar": "صحتين وعافية! نتمنى أن تنال الوجبة إعجابك، يرجى تقييم تجربتك",
+      "type": "order",
+      "order_id": "ord-live-audit-1788129059004",
+      "is_read": false,
+      "created_at": "2026-08-30T22:30:59.031Z"
+    }
+  ],
+  "support_tickets": [
+    {
+      "id": "tick-1",
+      "ticket_number": "TCK-2026-01",
+      "user_id": "usr-cust-1",
+      "user_name": "سامر الخالدي",
+      "user_phone": "+963933999000",
+      "user_role": "customer",
+      "order_id": "ord-demo-101",
+      "subject": "استفسار عن وقت وصول المندوب",
+      "category": "delivery",
+      "priority": "medium",
+      "status": "in_progress",
+      "messages": [
+        {
+          "sender_id": "usr-cust-1",
+          "sender_name": "سامر الخالدي",
+          "sender_role": "customer",
+          "text": "مرحباً، كم تبقى من الوقت لوصول المندوب إلى كفرسوسة؟",
+          "sent_at": "2026-08-30T22:00:39.801Z"
+        },
+        {
+          "sender_id": "usr-admin-1",
+          "sender_name": "خدمة عملاء وصّلني",
+          "sender_role": "admin",
+          "text": "أهلاً بك أستاذ سامر، المندوب استلم الطلب وهو على بعد 5 دقائق من موقعك.",
+          "sent_at": "2026-08-30T22:07:39.801Z"
+        }
+      ],
+      "created_at": "2026-08-30T22:00:39.801Z",
+      "updated_at": "2026-08-30T22:10:39.801Z"
+    }
+  ],
+  "audit_logs": [
+    {
+      "id": "aud-1",
+      "action_type": "SYSTEM_BOOTSTRAP",
+      "entity_type": "SYSTEM",
+      "entity_id": "WASSALNI_CORE",
+      "user_id": "usr-admin-1",
+      "user_name": "مدير منصة وصّلني",
+      "user_role": "admin",
+      "ip_address": "127.0.0.1",
+      "new_values": {
+        "platform": "Wassalni Syrian Food Delivery",
+        "initialized": true
+      },
+      "created_at": "2026-08-30T22:10:39.801Z"
+    },
+    {
+      "id": "aud-1788128142790",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128142789",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "pending"
+      },
+      "new_values": {
+        "status": "accepted",
+        "notes": "تم قبول الطلب"
+      },
+      "created_at": "2026-08-30T22:15:42.790Z"
+    },
+    {
+      "id": "aud-1788128142791",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128142789",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "accepted"
+      },
+      "new_values": {
+        "status": "preparing",
+        "notes": "جاري التحضير"
+      },
+      "created_at": "2026-08-30T22:15:42.791Z"
+    },
+    {
+      "id": "aud-1788128166078",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128166078",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "pending"
+      },
+      "new_values": {
+        "status": "accepted",
+        "notes": "تم قبول الطلب"
+      },
+      "created_at": "2026-08-30T22:16:06.078Z"
+    },
+    {
+      "id": "aud-1788128166079",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128166078",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "accepted"
+      },
+      "new_values": {
+        "status": "preparing",
+        "notes": "جاري التحضير"
+      },
+      "created_at": "2026-08-30T22:16:06.079Z"
+    },
+    {
+      "id": "aud-1788128166108",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128166078",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "preparing"
+      },
+      "new_values": {
+        "status": "ready",
+        "notes": "جاهز للتوصيل"
+      },
+      "created_at": "2026-08-30T22:16:06.108Z"
+    },
+    {
+      "id": "aud-1788128166109",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128166078",
+      "user_id": "system",
+      "user_name": "system",
+      "user_role": "system",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "ready"
+      },
+      "new_values": {
+        "status": "driver_assigned",
+        "notes": "إسناد"
+      },
+      "created_at": "2026-08-30T22:16:06.109Z"
+    },
+    {
+      "id": "aud-1788128166109",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128166078",
+      "user_id": "usr-driver-1",
+      "user_name": "driver",
+      "user_role": "driver",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "driver_assigned"
+      },
+      "new_values": {
+        "status": "on_the_way",
+        "notes": "استلام"
+      },
+      "created_at": "2026-08-30T22:16:06.109Z"
+    },
+    {
+      "id": "aud-1788128166111",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128166078",
+      "user_id": "usr-driver-1",
+      "user_name": "driver",
+      "user_role": "driver",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "on_the_way"
+      },
+      "new_values": {
+        "status": "delivered",
+        "notes": "تم التسليم بنجاح"
+      },
+      "created_at": "2026-08-30T22:16:06.111Z"
+    },
+    {
+      "id": "aud-1788128869099",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128869098",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "pending"
+      },
+      "new_values": {
+        "status": "accepted",
+        "notes": "تم قبول الطلب"
+      },
+      "created_at": "2026-08-30T22:27:49.099Z"
+    },
+    {
+      "id": "aud-1788128869100",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128869098",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "accepted"
+      },
+      "new_values": {
+        "status": "preparing",
+        "notes": "جاري التحضير"
+      },
+      "created_at": "2026-08-30T22:27:49.100Z"
+    },
+    {
+      "id": "aud-1788128869121",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128869098",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "preparing"
+      },
+      "new_values": {
+        "status": "ready",
+        "notes": "جاهز للتوصيل"
+      },
+      "created_at": "2026-08-30T22:27:49.121Z"
+    },
+    {
+      "id": "aud-1788128869123",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128869098",
+      "user_id": "usr-admin-1",
+      "user_name": "admin",
+      "user_role": "admin",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "ready"
+      },
+      "new_values": {
+        "status": "driver_assigned",
+        "notes": "إسناد"
+      },
+      "created_at": "2026-08-30T22:27:49.123Z"
+    },
+    {
+      "id": "aud-1788128869123",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128869098",
+      "user_id": "usr-driver-1",
+      "user_name": "driver",
+      "user_role": "driver",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "driver_assigned"
+      },
+      "new_values": {
+        "status": "on_the_way",
+        "notes": "استلام"
+      },
+      "created_at": "2026-08-30T22:27:49.123Z"
+    },
+    {
+      "id": "aud-1788128869125",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-test-state-1788128869098",
+      "user_id": "usr-driver-1",
+      "user_name": "driver",
+      "user_role": "driver",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "on_the_way"
+      },
+      "new_values": {
+        "status": "delivered",
+        "notes": "تم التسليم بنجاح"
+      },
+      "created_at": "2026-08-30T22:27:49.125Z"
+    },
+    {
+      "id": "aud-1788129059006",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-live-audit-1788129059004",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "pending"
+      },
+      "new_values": {
+        "status": "accepted",
+        "notes": "تم القبول"
+      },
+      "created_at": "2026-08-30T22:30:59.006Z"
+    },
+    {
+      "id": "aud-1788129059007",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-live-audit-1788129059004",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "accepted"
+      },
+      "new_values": {
+        "status": "preparing",
+        "notes": "جاري الطهي"
+      },
+      "created_at": "2026-08-30T22:30:59.007Z"
+    },
+    {
+      "id": "aud-1788129059026",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-live-audit-1788129059004",
+      "user_id": "usr-rest-1",
+      "user_name": "restaurant",
+      "user_role": "restaurant",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "preparing"
+      },
+      "new_values": {
+        "status": "ready",
+        "notes": "جاهز للتسليم"
+      },
+      "created_at": "2026-08-30T22:30:59.026Z"
+    },
+    {
+      "id": "aud-1788129059028",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-live-audit-1788129059004",
+      "user_id": "usr-admin-1",
+      "user_name": "admin",
+      "user_role": "admin",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "ready"
+      },
+      "new_values": {
+        "status": "driver_assigned",
+        "notes": "إسناد"
+      },
+      "created_at": "2026-08-30T22:30:59.028Z"
+    },
+    {
+      "id": "aud-1788129059029",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-live-audit-1788129059004",
+      "user_id": "usr-driver-1",
+      "user_name": "driver",
+      "user_role": "driver",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "driver_assigned"
+      },
+      "new_values": {
+        "status": "on_the_way",
+        "notes": "تم الاستلام من المطعم"
+      },
+      "created_at": "2026-08-30T22:30:59.029Z"
+    },
+    {
+      "id": "aud-1788129059032",
+      "action_type": "ORDER_STATUS_CHANGED",
+      "entity_type": "ORDER",
+      "entity_id": "ord-live-audit-1788129059004",
+      "user_id": "usr-driver-1",
+      "user_name": "driver",
+      "user_role": "driver",
+      "ip_address": "127.0.0.1",
+      "old_values": {
+        "status": "on_the_way"
+      },
+      "new_values": {
+        "status": "delivered",
+        "notes": "تم التسليم وقبض الكاش"
+      },
+      "created_at": "2026-08-30T22:30:59.032Z"
+    }
+  ],
+  "addresses": [
+    {
+      "id": "addr-1",
+      "user_id": "usr-cust-1",
+      "title": "المنزل",
+      "city": "دمشق",
+      "district": "كفرسوسة",
+      "street_details": "جانب جامع الهدى، دخلة صيدلية السلام",
+      "building": "بناء الياسمين 14",
+      "floor": "الطابق الثاني - شقة 5",
+      "notes": "يرجى رن الجرس بهدوء لوجود أطفال",
+      "latitude": 33.4912,
+      "longitude": 36.2785,
+      "is_default": true,
+      "phone_contact": "+963933999000",
+      "created_at": "2026-08-30T22:15:42.351Z"
+    },
+    {
+      "id": "addr-2",
+      "user_id": "usr-cust-1",
+      "title": "العمل / المكتب",
+      "city": "دمشق",
+      "district": "الشعلان",
+      "street_details": "شارع حافظ إبراهيم، مقابل حديقة السبكي",
+      "building": "برج الشعلان التجاري",
+      "floor": "الطابق الرابع - شركة التقنية السورية",
+      "notes": "التسليم لموظف الاستقبال",
+      "latitude": 33.5185,
+      "longitude": 36.291,
+      "is_default": false,
+      "phone_contact": "+963933999000",
+      "created_at": "2026-08-30T22:15:42.351Z"
+    }
+  ],
+  "settlements": [],
+  "promotions": []
+}
